@@ -1,7 +1,7 @@
 {
- "key": "e2f6b364",
+ "key": "fe52f668",
  "stars": 157,
- "contributions": 534,
+ "contributions": 536,
  "repos": 20,
  "followers": 32,
  "languages": [
@@ -11,7 +11,7 @@
   ],
   [
    "Kotlin",
-   15282243
+   15332477
   ],
   [
    "C++",
@@ -121,11 +121,15 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 5,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
