@@ -1,8 +1,8 @@
 {
- "key": "e5113dea",
+ "key": "5d40b881",
  "stars": 159,
- "contributions": 545,
- "repos": 20,
+ "contributions": 551,
+ "repos": 21,
  "followers": 33,
  "languages": [
   [
@@ -11,7 +11,7 @@
   ],
   [
    "Kotlin",
-   15356527
+   19623079
   ],
   [
    "C++",
@@ -30,8 +30,8 @@
    523502
   ],
   [
-   "Java",
-   74372
+   "Rust",
+   82922
   ]
  ],
  "days": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 7,
     "day": 27,
     "today": true
    },
@@ -317,6 +317,15 @@
    "fork": true,
    "stars": 1,
    "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "c3_tv",
+   "url": "https://github.com/mo7AmMeD64/c3_tv",
+   "text": "Cloud3 for android tv",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
